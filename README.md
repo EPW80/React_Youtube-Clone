@@ -2,6 +2,8 @@
 
 a youtube clone using React.js. 
 
+![](./style/chain.png)
+
 ## Technologies used?
 
 - react.js (create-react-app)
